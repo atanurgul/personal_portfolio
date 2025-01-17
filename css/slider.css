@@ -1,0 +1,22 @@
+
+
+.slider-buttons {
+    display: flex;
+    justify-content: space-around;
+    /* padding: 15px; */
+    margin-top: 40px;
+    
+    
+
+}
+
+
+.slider-buttons i {
+    transition: all ease 0.5s;
+
+}
+
+.slider-buttons i:hover {
+    transform: scale(1.3);
+    transition: all ease 0.5s;
+}
